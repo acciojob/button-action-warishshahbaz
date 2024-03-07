@@ -1,1 +1,7 @@
 /* Your CSS code here. */
+.show {
+  display: none;
+}
+.hide {
+  display: block;
+}
